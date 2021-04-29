@@ -7,7 +7,7 @@ My collection of Python Programs
  
 2.[Linear search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Searching_Algorithms/2.Linear_search.py) 
 
-## Sorted Algorithms:
+## Sorting Algorithms:
 
 1.[Selection sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/1.Selection_sort.py) 
 
