@@ -11,8 +11,6 @@ My collection of Python Programs
 
 1.[Selection sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/1.Selection_sort.py) 
 
-![Selection sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/img/Selection_Sort.jpg)
-
 2.[Bubble sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/1.Selection_sort.py) 
 
 3.[Insertion sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/3.Insertion_sort.py) 
