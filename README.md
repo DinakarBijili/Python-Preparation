@@ -20,3 +20,15 @@ My collection of Python Programs
 5.[Quick sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/5.Quick_sort.py) 
 
 6.[Heap sort](https://github.com/DinakarBijili/Python-Preparation/blob/master/Sorting_Algorithms/6.Heap_sort.py) 
+
+# Simple Python Projects
+
+1.[Adventures Tour](https://github.com/DinakarBijili/Python-Preparation/blob/master/Simple%20python%20projects/Adventures_tour.py)
+
+2.[Dice roller](https://github.com/DinakarBijili/Python-Preparation/blob/master/Simple%20python%20projects/Dice.py)
+
+3.[Guess Game](https://github.com/DinakarBijili/Python-Preparation/blob/master/Simple%20python%20projects/perfect_guess.py)
+
+4.[Rock Paper Scissors](https://github.com/DinakarBijili/Python-Preparation/blob/master/Simple%20python%20projects/rock%2Cpaper%2Ccessiors_game.py)
+
+
