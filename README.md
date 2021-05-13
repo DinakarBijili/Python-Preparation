@@ -4,7 +4,11 @@ My collection of Python Programs
 ## Search Algorithms:
 
 1.[Binary search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Data%20Structures%20and%20Algorithms/Algorithms/Searching_Algorithms/1.Binary_search.py)
-![Binary Search](https://user-images.githubusercontent.com/77189196/118150142-daaa7980-b42f-11eb-9981-5fb687fb41d5.mp4/GIF)
+
+
+https://user-images.githubusercontent.com/77189196/118150543-4ee51d00-b430-11eb-9c12-3dc3c2eba65e.mp4
+
+
  
 2.[Linear search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Data%20Structures%20and%20Algorithms/Algorithms/Searching_Algorithms/2.Linear_search.py) 
 
