@@ -7,7 +7,7 @@ My collection of Python Programs
 
 1.[Binary search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Data%20Structures%20and%20Algorithms/Algorithms/Searching_Algorithms/1.Binary_search.py)
 
-https://user-images.githubusercontent.com/77189196/119776582-bdbb7f00-bee2-11eb-9e81-87475f50a9bd.mp4 width="80" height="80"
+https://user-images.githubusercontent.com/77189196/119776582-bdbb7f00-bee2-11eb-9e81-87475f50a9bd.mp4width="80" 
 
  
 2.[Linear search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Data%20Structures%20and%20Algorithms/Algorithms/Searching_Algorithms/2.Linear_search.py)
