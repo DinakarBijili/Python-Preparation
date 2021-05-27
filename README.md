@@ -1,6 +1,8 @@
 # Python-Preparation
 My collection of Python Programs
 
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20.svg)&nbsp;
+
 ## Search Algorithms:
 
 1.[Binary search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Data%20Structures%20and%20Algorithms/Algorithms/Searching_Algorithms/1.Binary_search.py)
