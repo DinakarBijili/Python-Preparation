@@ -1,14 +1,13 @@
 # Python-Preparation
 My collection of Python Programs
 
-![Language](https://img.shields.io/badge/language-Python.svg)&nbsp;
+
 
 ## Search Algorithms:
 
 1.[Binary search](https://github.com/DinakarBijili/Python-Preparation/blob/master/Data%20Structures%20and%20Algorithms/Algorithms/Searching_Algorithms/1.Binary_search.py)
 
 
-https://user-images.githubusercontent.com/77189196/118150543-4ee51d00-b430-11eb-9c12-3dc3c2eba65e.mp4 
 
 
  
