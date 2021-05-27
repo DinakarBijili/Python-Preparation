@@ -1,7 +1,7 @@
 # Python-Preparation
 My collection of Python Programs
 
-![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-Python.svg)&nbsp;
 
 ## Search Algorithms:
 
